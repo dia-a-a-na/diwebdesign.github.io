@@ -1,0 +1,13 @@
+.menu {
+  float: right;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 1% 30% 0% 0%;
+}
+
+.menu p {
+  margin-right: 20%;
+  color: #7b9f20;
+  
+}
